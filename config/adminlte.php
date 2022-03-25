@@ -312,12 +312,12 @@ return [
         'icon' => 'fas fa-check',
         'role' => 'superadmin',
         ],
-        [
-            'text' => 'Cetak Laporan',
-            'url'  => 'pengadaanbarang/cetak-laporan',
-            'icon' => 'fas fa-file',
-            'role' => 'admin',
-        ],
+        // [
+        //     'text' => 'Cetak Laporan',
+        //     'url'  => 'pengadaanbarang/cetak-laporan',
+        //     'icon' => 'fas fa-file',
+        //     'role' => 'admin',
+        // ],
         // [
         //     'text' => 'User Management',
         //     'url'  => 'pengadaanbarang/user-management',
